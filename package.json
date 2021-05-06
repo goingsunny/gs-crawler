@@ -14,7 +14,7 @@
   "dependencies": {
     "axios": "^0.19.0",
     "crawler": "^1.2.1",
-    "sanitize-html": "^1.20.1",
+    "sanitize-html": "^2.3.2",
     "url": "^0.11.0"
   }
 }
